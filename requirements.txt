@@ -1,0 +1,10 @@
+azure-ai-projects
+azure-ai-agents
+azure-identity
+azure-core
+openai
+python-dotenv
+requests
+httpx
+pydantic
+rich
